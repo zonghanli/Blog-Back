@@ -24,7 +24,7 @@ $\widehat{xxx}$| \widehat{xxx}
 $\underline{xxx}$| \underline{xxx}
  $\overbrace{xxx}$|\overbrace{xxx}
   $\underbrace{xxx}$| \underbrace{xxx}
-  
+
 ### Fonts
 | LaTeX markup... | ...results in:    |
 |:--------:| -------------:|
